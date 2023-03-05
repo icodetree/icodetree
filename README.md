@@ -3,7 +3,7 @@
 
 👋 Hello, welcome to funcoding. 
 👀 I am interested in developing UI/UX & Frontend and aim to share fun and value.
-good luck!!
+Good luck to You!!
 
 **languages and tools:**  
 
