@@ -1,4 +1,4 @@
-### hey there 
+### Hey there 
 
 
 👋 Hello, welcome to funcoding. 
